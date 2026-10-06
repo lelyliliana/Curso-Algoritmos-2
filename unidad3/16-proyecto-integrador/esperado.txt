@@ -1,0 +1,4 @@
+{A=[B, C], B=[A, D], C=[A, D], D=[B, C], E=[]}
+A a D: [A, B, D]
+A a E: []
+Recuperación igual: true
